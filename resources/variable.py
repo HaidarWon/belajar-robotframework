@@ -1,0 +1,6 @@
+url_google= 'https://google.co.id'
+url_demoqa= 'https://demoqa.com/text-box'
+input_text_inUsernameField= 'id=userName'
+input_text_inEmailField= 'id=userEmail'
+input_text_inCurrentAddress= 'id=currentAddress'
+input_text_inPermanentAddress= 'id=permanentAddress'
